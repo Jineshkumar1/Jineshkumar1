@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=F75908&width=480&height=70&lines=Automating+Solutions%2C+Building+Innovations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=F75908&width=480&height=70&lines=Automating+Infrastructure%2C+Solutioning+Architecture)](https://git.io/typing-svg)
 
 # Hi there I am [Jinesh](https://jineshkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
