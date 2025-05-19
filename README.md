@@ -87,9 +87,6 @@ I am a Cloud Infrastructure Consultant with a proven track record of delivering 
 
 [![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jineshkumar1&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jineshkumar1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jineshkumar1&theme=radical)](https://git.io/streak-stats)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jineshkumar1&theme=react-dark)](https://github.com/Jineshkumar1)
-[![GitHub metrics](https://metrics.lecoq.io/Jineshkumar1)](https://metrics.lecoq.io/Jineshkumar1)
 
 ---
 
