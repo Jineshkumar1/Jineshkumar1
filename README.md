@@ -40,32 +40,6 @@ I am a Cloud Infrastructure Consultant with a proven track record of delivering 
 
 ## Technologies and Tools I work with 💻 🛠️🖱️⌨️
 <p align="left">
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45" style="filter: invert(100%);"/>
-<img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="githubactions" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="helm" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/> -->
-
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="45" height="45" style="filter: invert(100%);" />
@@ -107,26 +81,15 @@ I am a Cloud Infrastructure Consultant with a proven track record of delivering 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> -->
-
 ---
 
 ## 📊 GitHub Stats
 
 [![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jineshkumar1&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jineshkumar1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- <a href="https://github.com/Jineshkumar1/Jineshkumar1">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jineshkumar1&show_icons=true&theme=cobalt" />
-</a>
-
-<br> <a href="https://github.com/Jineshkumar1/Jineshkumar1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jineshkumar1&show_icons=true&theme=cobalt&hide=javascript,css" />
-</a> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jineshkumar1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jineshkumar1&theme=react-dark)](https://github.com/Jineshkumar1)
+[![GitHub metrics](https://metrics.lecoq.io/Jineshkumar1)](https://metrics.lecoq.io/Jineshkumar1)
 
 ---
 
@@ -158,12 +121,12 @@ I am a Cloud Infrastructure Consultant with a proven track record of delivering 
 
 ## 🔄 Activities I involved in
 <!-- RECENT-ACTIVITY:START -->
-- Working on cloud infrastructure automation projects
-- Exploring serverless architecture patterns and PaaS solutions
-- Contributing to open-source projects related to DevOps and cloud technologies
-- Attending training, meetups, webinars and workshops on cloud infrastructure and DevOps
-- Writing articles and tutorials on cloud technologies and automation best practices
-- Collaborating with teams to implement CI/CD pipelines and DevOps best practices
+- Working on cloud infrastructure automation projects. Infrastructure as Code (IaC) using Terraform and CI/CD pipelines using Azure DevOps and GitHub Actions.
+- Exploring cloud architecture patterns and IaaS/PaaS solutions deployment Projects.
+- Contributing to open-source projects related to DevOps and cloud technologies.
+- Attending training, meetups, webinars and workshops on cloud infrastructure and DevOps.
+- Writing articles and tutorials on cloud technologies and automation best practices.
+- Collaborating with teams to implement CI/CD pipelines and DevOps best practices.
 <!-- RECENT-ACTIVITY:END -->
 
 
@@ -173,11 +136,7 @@ I am a Cloud Infrastructure Consultant with a proven track record of delivering 
 - 🌐 Website: [https://jineshkumar.com](https://jineshkumar.com)
 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<!--
-**Jineshkumar1/Jineshkumar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
